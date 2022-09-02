@@ -14,6 +14,7 @@ class App extends Component {
   render() {
     return (
       <div>
+        私は
         <HeaderBar />
         <div className="section columns">
           <NavBar />
